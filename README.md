@@ -1,6 +1,6 @@
 # gold_price_prediction
 
-Using a Supervised Machine Learning model I have done the project
+Used a Supervised Machine Learning model 
 
 Project overview:
 
